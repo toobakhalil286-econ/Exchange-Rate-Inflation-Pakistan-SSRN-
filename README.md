@@ -20,22 +20,23 @@ Below are the 6 structural empirical plots generated programmatically via `analy
 
 <table align="center">
   <tr>
-    <td align="center"><b>Figure 1: Macro Co-Movements</b><br><img src="Figure_1.png" width="400"></td>
-    <td align="center"><b>Figure 2: CPI Distribution</b><br><img src="Figure_2.png" width="400"></td>
+    <td align="center"><b>Figure 1: Bivariate Scatter Distribution</b><br><img src="Figure_1.png" width="400"></td>
+    <td align="center"><b>Figure 2: Linear Regression Fit Line</b><br><img src="Figure_2.png" width="400"></td>
   </tr>
   <tr>
-    <td align="center"><b>Figure 3: USD/PKR Exchange Trend</b><br><img src="Figure_3.png" width="400"></td>
-    <td align="center"><b>Figure 4: Scatter Plot & OLS Fit</b><br><img src="Figure_4.png" width="400"></td>
+    <td align="center"><b>Figure 3: USD/PKR Monthly Exchange Rate</b><br><img src="Figure_3.png" width="400"></td>
+    <td align="center"><b>Figure 4: Consumer Price Inflation (CPI) Trend</b><br><img src="Figure_4.png" width="400"></td>
   </tr>
   <tr>
-    <td align="center"><b>Figure 5: Descriptive Quantile Splits</b><br><img src="Figure_5.png" width="400"></td>
-    <td align="center"><b>Figure 6: Linear Residual Metrics</b><br><img src="Figure_6.png" width="400"></td>
+    <td align="center"><b>Figure 5: Macro Co-Movements Over Time</b><br><img src="Figure_5.png" width="400"></td>
+    <td align="center"><b>Figure 6: Standardized Variable Tracking</b><br><img src="Figure_6.png" width="400"></td>
   </tr>
 </table>
+>
 
 ---
 
 ## 📬 Contact & Credentials
 * **Email:** toobakhalil508@gmail.com
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **ORCID iD:** [Your ORCID Link]
+* **LinkedIn:** [www.linkedin.com/in/tooba-khalil-a12038415]
+
