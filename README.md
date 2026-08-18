@@ -1,5 +1,3 @@
-# Exchange-Rate-Inflation-Pakistan-SSRN-
-Reproducible Python codebase and empirical analysis for the SSRN working paper examining nominal exchange rate fluctuations (USD/PKR) and consumer price inflation in Pakistan (2020–2025)
 # Exchange Rate Movements and Consumer Price Inflation in Pakistan: A Monthly Descriptive and Correlation Analysis, 2020–2025 [SSRN]
 
 **Author:** Tooba Khalil  
@@ -9,33 +7,31 @@ Reproducible Python codebase and empirical analysis for the SSRN working paper e
 ---
 
 ## 📌 Project Overview
-This repository provides a fully reproducible Python-based empirical analysis examining the statistical relationship between nominal exchange rate movements (USD/PKR) and consumer price inflation (CPI) in Pakistan. Covering 66 monthly observations from January 2020 to June 2025, this project transitions the initial spreadsheet-based framework into a programmatic data science pipeline suitable for macroeconomic research.
+This repository provides a fully reproducible Python-based empirical analysis examining the statistical relationship between nominal exchange rate movements (USD/PKR) and consumer price inflation (CPI) in Pakistan. Covering 66 monthly observations from January 2020 to June 2025, this project transitions traditional macroeconomic research into an open-source data science pipeline.
 
-## 📄 Working Paper & Documentation
-* **PDF Version:** [Download/View Research Paper PDF](./paper/research_paper.pdf)
+## 📄 Working Paper & Replication Data
+* **Research Paper PDF:** [Click here to open your uploaded PDF file](./) *(Note: You can click the PDF file directly from the file list above to view your full paper)*
 * **SSRN Link:** [Insert your SSRN Paper URL here after uploading]
-* **Data Sources:** Nominal Exchange Rates from the **State Bank of Pakistan (SBP)**; CPI Inflation data from the **Pakistan Bureau of Statistics (PBS)**.
+* **Empirical Code Engine:** `analysis.py` contains the computational workflow using `pandas`, `statsmodels`, and `seaborn`.
 
-## 📊 Visualizing Macroeconomic Co-Movements
-Below is the high-resolution, dual-axis visualization generated via Python showing how USD/PKR fluctuations track CPI Inflation movements:
+## 📊 Complete Macroeconomic Visualization Suite
 
-<p align="center">
-  <img src="./output/macro_co_movements.png" alt="Exchange Rate and Inflation Trends" width="850">
-</p>
+Below are the 6 structural empirical plots generated programmatically via `analysis.py` to map tracking cycles, data distributions, and correlation tracking across the 66-month observation matrix:
 
-## 🛠️ Methodology & Technical Stack
-- **Language:** Python 3.x
-- **Core Libraries:** `pandas`, `numpy`, `statsmodels`, `matplotlib`, `seaborn`
-- **Empirical Framework:** Bivariate Pearson product-moment correlation analysis and descriptive tracking across macro-structural timelines.
-
-## 📁 Repository Structure
-```text
-├── data/                  # Cleaned CSV containing the 66 monthly observations
-├── scripts/               # Python source code for calculations (analysis.py)
-├── output/                # Code-generated plots (Time-series trend lines)
-├── paper/                 # PDF copy of the SSRN Working Paper (research_paper.pdf)
-└── README.md              # Project documentation & rendered visualization
-```
+<table align="center">
+  <tr>
+    <td align="center"><b>Figure 1: Macro Co-Movements</b><br><img src="Figure_1.png" width="400"></td>
+    <td align="center"><b>Figure 2: CPI Distribution</b><br><img src="Figure_2.png" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Figure 3: USD/PKR Exchange Trend</b><br><img src="Figure_3.png" width="400"></td>
+    <td align="center"><b>Figure 4: Scatter Plot & OLS Fit</b><br><img src="Figure_4.png" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Figure 5: Descriptive Quantile Splits</b><br><img src="Figure_5.png" width="400"></td>
+    <td align="center"><b>Figure 6: Linear Residual Metrics</b><br><img src="Figure_6.png" width="400"></td>
+  </tr>
+</table>
 
 ---
 
