@@ -11,7 +11,8 @@ This repository provides a fully reproducible Python-based empirical analysis ex
 
 ## 📄 Working Paper & Replication Data
 * **Research Paper PDF:** [Click here to open your uploaded PDF file](./) *(Note: You can click the PDF file directly from the file list above to view your full paper)*
-* **SSRN Link:** [Insert your SSRN Paper URL here after uploading]
+* **SSRN Link:** [View Live Paper on SSRN](https://ssrn.com)
+
 * **Empirical Code Engine:** `analysis.py` contains the computational workflow using `pandas`, `statsmodels`, and `seaborn`.
 
 ## 📊 Complete Macroeconomic Visualization Suite
@@ -39,4 +40,5 @@ Below are the 6 structural empirical plots generated programmatically via `analy
 ## 📬 Contact & Credentials
 * **Email:** toobakhalil508@gmail.com
 * **LinkedIn:** [www.linkedin.com/in/tooba-khalil-a12038415]
+* 
 
